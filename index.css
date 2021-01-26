@@ -12,7 +12,7 @@
     --azul:rgb(20, 81, 212);
     --rojo:red;
     /* 26-01-21 1535 */
- 
+
   }
   .mensaje {
     background-color:var(--blanco);
@@ -20,4 +20,13 @@
 div, p {
   font-size: 1.5em;
   color: brown;
+}
+
+img {
+  width: 100px;
+}
+.logo {
+  background-color: darkgrey;
+  height: 100px;
+
 }
