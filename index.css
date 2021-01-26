@@ -16,7 +16,10 @@
   }
  
 
-  .mensaje{
+  .mensaje {
     background-color:var(--blanco);
 }
- 
+div, p {
+  font-size: 1.5em;
+  color: brown;
+}
