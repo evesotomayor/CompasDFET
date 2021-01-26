@@ -1,0 +1,22 @@
+
+
+:root {
+    --celeste:#48abe0;
+    --naranjo:#e69a21;
+    --amarillo:#fbeb00;
+    --verde:#18f13c;
+    --gris:#ced3cf;
+    --grisborde:#727272;
+    --blanco:white;
+    --negro:black;
+    --azul:rgb(20, 81, 212);
+    --rojo:red;
+    /* 26-01-21 1535 */
+ 
+  }
+ 
+
+  .mensaje{
+    background-color:var(--blanco);
+}
+ 
